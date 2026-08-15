@@ -1,19 +1,16 @@
-# Ashish Chandan — Portfolio (React + Vite + Tailwind)
+# Ashish Portfolio (legacy)
 
-Bold, creative portfolio ready for **Vercel**.
+Previous version of my portfolio site — React + Vite, 2025.
+
+**Superseded.** The current portfolio lives at [ashish-chandan.vercel.app](https://ashish-chandan.vercel.app).
+
+## Stack
+
+React, Vite, Tailwind CSS, GitHub Actions (static deploy).
 
 ## Run locally
+
 ```bash
 npm install
 npm run dev
 ```
-
-## Deploy to Vercel
-- Import repo in Vercel
-- Build command: `npx vite build`
-- Output directory: `dist`
-
-## Edit content
-- Projects: `src/components/Projects.jsx`
-- Links: `src/components/Navbar.jsx` & `src/components/Contact.jsx`
-- Replace `public/resume.pdf` with your latest resume.
